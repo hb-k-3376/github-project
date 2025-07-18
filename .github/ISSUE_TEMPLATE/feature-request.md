@@ -1,7 +1,7 @@
 ---
 name: 기능제한
 about: 새로운 기능이나 개선사항을 제안합니다.
-title: '[feature]'
+title: '[Feature]'
 labels: todo
 assignees: ''
 ---
