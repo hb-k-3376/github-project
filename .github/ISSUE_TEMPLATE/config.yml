@@ -1,5 +1,5 @@
 blank_issues_enabled: false
-context_links:
-  -name: 질문은 Discussion에서!
-    url: https://github.com/github-project/discussion
-    about: 질문이나 일반적인 논의는 Discussion탭을 이용해주세요.
+contact_links:
+  - name: 💬 질문은 Discussions에서!
+    url: https://github.com/your-org/your-repo/discussions
+    about: 질문이나 일반적인 논의는 Discussions 탭을 이용해주세요.
